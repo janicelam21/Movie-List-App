@@ -1,3 +1,4 @@
+// var movies = [];
 var movies = [
   {title: 'Mean Girls'},
   {title: 'Hackers'},

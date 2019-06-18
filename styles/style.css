@@ -1,0 +1,17 @@
+body {
+  background:white;
+}
+.title {
+  color: greenyellow;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.movies {
+  color: black;
+  text-align: left;
+  border-color:black;
+  border-right: 100px;
+  /* background: red; */
+  border: 10px
+}

@@ -1,3 +1,0 @@
-var Title = (props) => {
-  
-}
