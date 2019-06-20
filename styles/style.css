@@ -10,8 +10,12 @@ body {
 .movies {
   color: black;
   text-align: left;
-  border-color:black;
-  border-right: 100px;
+  width: 50%;
+  border : 2px solid;
   /* background: red; */
-  border: 10px
+
+}
+
+.container {
+  width: 500px
 }
